@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Catalin!
 
+**Full Stack Developer | Linux Explorer | Information Technology Student**
+
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on Cloud Computing Minor
 - 🌱 I’m learning OpenShift, Cloud Technologies and Go
